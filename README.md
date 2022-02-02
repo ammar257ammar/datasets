@@ -85,7 +85,7 @@ be reported [here](https://github.com/NanoCommons/datasets/issues).
 
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="10.5281/zenodo.5744003"></div>
 
-## RDF version of the data from Saarimaki et al. Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Zebodo Dataset] (2020)
+## RDF version of the data from Saarimaki et al. Manually curated transcriptomics data collection for toxicogenomic assessment of engineered nanomaterials (Version 1.0.0) [Zenodo Dataset] (2020)
 <script type="application/ld+json">
   {
     "@context": "https://schema.org/",
